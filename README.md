@@ -1,4 +1,5 @@
 _vector-template-II
 ===================
 
-https://gist.github.com/5076183.git
+
+https://gist.github.com/adair67/5076183
